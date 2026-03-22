@@ -16,7 +16,7 @@ Cette application permet de :
 
 * PHP >= 8.0
 * Composer
-* MySQL (ou MariaDB)
+* MySQL (doit être lancé)
 * XAMPP ou autre serveur local
 
 ---
